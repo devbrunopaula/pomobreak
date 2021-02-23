@@ -25,13 +25,12 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![devbrunopaula][my-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
 
-  <a href="https://github.com/devbrunopaula/quest-nextjs">
+  <a href="https://brunopaula.com/">
     <img src="github/images/bruno.jpg" alt="Logo"  >
   </a>
 
@@ -58,7 +57,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">React</a></li>
+        <li><a href="#built-with">TypeScrip</a></li>
+        <li><a href="#built-with">Figma</a></li>
       </ul>
     </li>
     <li>
@@ -81,7 +82,8 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product ad][project-ad]](https://pomobreak.vercel.app/)
+[![Product Name Screen Shot][product-screenshot]](https://pomobreak.vercel.app/)
 
 Here's a blank template to get started:
 **For many people, time is an enemy. We race against the clock to finish assignments and meet deadlines.:**
@@ -155,7 +157,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@devbrunopaula](https://twitter.com/devbrunopaula) - devbrunopaula@gmail.com
 
-Project Link: [https://github.com/devbrunopaula/quest-nextjs](https://github.com/devbrunopaula/quest-nextjs)
+Project Link: [https://github.com/devbrunopaula/pomobreak](https://pomobreak.vercel.app/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -182,6 +184,7 @@ Project Link: [https://github.com/devbrunopaula/quest-nextjs](https://github.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bruno-paula
 [product-screenshot]: github/images/screenshot.png
+[project-ad]: github/images/project-ad.jpg
 [logo]: github/images/logo1.jpg
 [openissues]: (https://img.shields.io/bitbucket/issues/devbrunopaula/quest-nextJs?style=for-the-badge)
 [rocket]: (https://rocketseat.com.br/)
