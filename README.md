@@ -42,7 +42,7 @@
     <a href="https://github.com/devbrunopaula/pomobreak"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/devbrunopaula/pomobreak">View Demo</a>
+    <a href="https://pomobreak.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/devbrunopaula/pomobreak/issues">Report Bug</a>
     ·
