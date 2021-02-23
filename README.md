@@ -30,24 +30,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-[[Product Name Screen Shot][logo]]
+
   <a href="https://github.com/devbrunopaula/quest-nextjs">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="github/images/bruno.jpg" alt="Logo"  >
   </a>
 
-  <h3 align="center">Quest Diagnostics</h3>
+  <h3 align="center">PomoBreak</h3>
 
   <p align="center">
-    project_description
+    The Pomodoro Technique teaches you to work with time, instead of struggling against it. A revolutionary time management system, it is at once deceptively simple to learn and life-changing to use.
     <br />
-    <a href="https://github.com/devbrunopaula/quest-nextjs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/devbrunopaula/pomobreak"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/devbrunopaula/quest-nextjs">View Demo</a>
+    <a href="https://github.com/devbrunopaula/pomobreak">View Demo</a>
     ·
-    <a href="https://github.com/devbrunopaula/quest-nextjs/issues">Report Bug</a>
+    <a href="https://github.com/devbrunopaula/pomobreak/issues">Report Bug</a>
     ·
-    <a href="https://github.com/devbrunopaula/quest-nextjs/issues">Request Feature</a>
+    <a href="https://github.com/devbrunopaula/pomobreak/issues">Request Feature</a>
   </p>
 </p>
 
@@ -84,14 +84,12 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`devbrunopaula`, `quest-nextjs`, `twitter_handle`, `email`, `project_title`, `project_description`
+**For many people, time is an enemy. We race against the clock to finish assignments and meet deadlines.:**
+`devbrunopaula`, `promobreak`, `reactjs`
 
 ### Built With
 
-- []()
-- []()
-- []()
+- [React Js](https://reactjs.org/docs)
 
 <!-- GETTING STARTED -->
 
@@ -112,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/devbrunopaula/quest-nextjs.git
+   git clone https://github.com/devbrunopaula/pomobreak
    ```
 2. Install NPM packages
    ```sh
@@ -131,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/devbrunopaula/quest-nextjs/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/devbrunopaula/pomobreak/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -163,9 +161,9 @@ Project Link: [https://github.com/devbrunopaula/quest-nextjs](https://github.com
 
 ## Acknowledgements
 
-- []()
-- []()
-- []()
+- [React Team](https://reactjs.org/)
+- [NLW](https://nextlevelweek.com/)
+- [Rocketseat](https://rocketseat.com.br/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -185,5 +183,5 @@ Project Link: [https://github.com/devbrunopaula/quest-nextjs](https://github.com
 [linkedin-url]: https://www.linkedin.com/in/bruno-paula
 [product-screenshot]: github/images/screenshot.png
 [logo]: github/images/logo1.jpg
-
-[openissues](https://img.shields.io/bitbucket/issues/devbrunopaula/quest-nextJs?style=for-the-badge)
+[openissues]: (https://img.shields.io/bitbucket/issues/devbrunopaula/quest-nextJs?style=for-the-badge)
+[rocket]: (https://rocketseat.com.br/)
