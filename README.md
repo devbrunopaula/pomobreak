@@ -155,9 +155,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@devbrunopaula](https://twitter.com/devbrunopaula) - devbrunopaula@gmail.com
+Bruno Paula - [@devbrunopaula](https://twitter.com/devbrunopaula) - devbrunopaula@gmail.com
 
-Project Link: [https://github.com/devbrunopaula/pomobreak](https://pomobreak.vercel.app/)
+Project Link: [https://pomobreak.vercel.app](https://pomobreak.vercel.app/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
