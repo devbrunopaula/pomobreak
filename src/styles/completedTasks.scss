@@ -1,0 +1,27 @@
+@import 'colors';
+
+.completed-tasks {
+  display: flex;
+  position: relative;
+  padding-bottom: 18px;
+  //border-bottom: 1px solid gray;
+
+  h4 {
+    font-size: 1.2rem;
+    color: $text;
+  }
+}
+
+.completed-tasks--counter {
+  position: absolute;
+  left: 80%;
+  h4 {
+    color: $text;
+  }
+}
+
+.task-bottom-line {
+  border-bottom: 1px solid $gray-line;
+
+  width: 85%;
+}

@@ -1,0 +1,18 @@
+.task-content {
+  //   border: solid red;
+  margin-top: 150px;
+  display: flex;
+  height: 468px;
+}
+.leftBox {
+  //   border: solid green;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.rightBox {
+  //   border: solid blue;
+  flex: 1;
+  background: $white;
+  border-radius: 5px;
+}
